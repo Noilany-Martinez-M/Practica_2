@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.practica_programada;
 
 import java.util.Locale;
 import org.springframework.context.MessageSource;
